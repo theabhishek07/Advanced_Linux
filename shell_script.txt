@@ -1,3 +1,5 @@
+while loop:-
+
 Live Demo
 #!/bin/sh
 
@@ -7,4 +9,13 @@ while [ $a -lt 10 ]
 do
    echo $a
    a=`expr $a + 1`
+done
+
+
+for loop:-
+
+#!/bin/sh
+for i in 1 2 3 4 5
+do
+  echo "Looping ... number $i"
 done

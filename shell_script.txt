@@ -1,3 +1,4 @@
+                                     *shell script using both while loop and for loop*
 while loop:-
 
 Live Demo

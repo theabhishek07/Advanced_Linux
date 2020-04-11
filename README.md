@@ -1,4 +1,4 @@
-# Advanced_Linux_Lab
+# Advanced_Linux
 
 # You are always welcome to add more or improve any resource in this repository.
 

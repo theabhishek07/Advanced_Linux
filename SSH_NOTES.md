@@ -1,6 +1,6 @@
-ecure Shell or SSH is used primarily for accessing a remote system, but it has many more features than that.
+# Secure Shell or SSH is used primarily for accessing a remote system, but it has many more features than that.
 
-SSH is capable of:
+# SSH is capable of: -
 
 Shell Access
 File transfers

@@ -4,7 +4,7 @@
 
 2. Clone the repository to your local machine
 ```
-$ git clone "https://www.github.com/{Username}/HELLO-WORLD.git"
+$ git clone "https://www.github.com/{Username}/Advanced_Linux.git"
 ```
 where username is your GitHub account username.
 
@@ -35,7 +35,7 @@ $ git push -u origin branchname
 
 1. Create upstream as our repository
 ```
-$ git remote add upstream "https://github.com/theabhishek07/HELLO-WORLD"
+$ git remote add upstream "https://github.com/theabhishek07/Advanced_Linux"
 ```
 
 2. Fetch upstream changes in local machine
